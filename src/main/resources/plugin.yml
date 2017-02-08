@@ -1,0 +1,5 @@
+name: EntityObserver
+version: 1.0
+main: ca.momoperes.entityobserver.EntityObserver
+commands:
+  observer:
